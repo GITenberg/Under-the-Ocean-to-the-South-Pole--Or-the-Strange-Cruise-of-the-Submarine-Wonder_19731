@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19731#Under-the-Ocean-to-the-South-Pole--Or-the-Strange-Cruise-of-the-Submarine-Wonder
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-11-07'
 gutenberg_type: Text
